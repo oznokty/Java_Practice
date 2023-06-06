@@ -20,7 +20,6 @@ class Lonely_Integer {
      */
 
     public static int lonelyinteger(List<Integer> a) {
-    // Write your code here
     
     int check = 0;
     
